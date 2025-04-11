@@ -1,15 +1,16 @@
 <div align='center'>
 <h1>D-FRAME: Direction-Field-Based Wireframe Extraction for CAD Models </h1>
 </div>
-This repository contains the brief introduction of PyTorch implementation of the paper:
-
-**D-FRAME: Direction-Field-Based Wireframe Extraction for CAD Models**
-
-[//]: # ([[**arXiv**]]&#40;https://arxiv.org/abs/2411.19036&#41; [[**Project page**]]&#40;https://gsw-d.github.io/PCDreamer/&#41;)
 
 <!-- <br> -->
 Yuan Feng, Honghao Dai, [Guangshun Wei](https://gsw-d.github.io/gswei.github.io/), Long Ma, Pengfei Wang,
 Yuanfeng Zhou and Ying He.
+
+This repository contains the brief introduction of PyTorch implementation of D-FRAME. More details of the code, model, 
+and datasets will be made publicly available upon publication. 
+
+[//]: # ([[**arXiv**]]&#40;https://arxiv.org/abs/2411.19036&#41; [[**Project page**]]&#40;https://gsw-d.github.io/PCDreamer/&#41;)
+
 <!-- <br> -->
 ![example](./figures/pipeline.jpg)
 
