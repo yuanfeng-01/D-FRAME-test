@@ -1,0 +1,5 @@
+# ninja log v5
+0	14187	1702097552770166693	/data1/gswei/PoinTr/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer_cuda.o	4ec7d1037a9259af
+0	43866	1702097582438054744	/data1/gswei/PoinTr/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer.o	20f1e26aa27a1981
+1	15084	1703729496419082489	/data1/gswei/SVDFormer/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer_cuda.o	6ab1bce4756701f5
+0	42301	1703729523618983815	/data1/gswei/SVDFormer/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-39/chamfer.o	833874dc90cabf02
