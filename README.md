@@ -31,13 +31,13 @@ and datasets will be made publicly available upon publication.
 
 ## Visual results
 ### Edge Point Classification
-![Visual comparisons on edge point classification.](./figures/cls.jpg)
+![Visual comparisons on edge point classification.](./figures/cls.png)
 
 ### Wireframe Extraction
-![Visual comparisons on edge point classification.](./figures/line_complex.jpg)
+![Visual comparisons on edge point classification.](./figures/line_complex.png)
 
 ### CAD Model Reconstruction
-![Visual comparisons on edge point classification.](./figures/recon.jpg)
+![Visual comparisons on edge point classification.](./figures/recon.png)
 
 
 [//]: # (## 🔥News)
